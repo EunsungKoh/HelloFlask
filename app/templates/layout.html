@@ -3,6 +3,12 @@
     <head>
         <title>Hello Flask!</title>
         <link rel="stylesheet" href="{{ url_for('static', filename = 'css/main.css') }}">
+        <strong><nav>
+            <ul class="menu">
+                <li><a href="{{ url_for('home') }}">Home</a></li>
+                <li><a href="{{ url_for('about') }}">About</a></li>
+            </ul>
+        </nav></strong>
     </head>
     <body>
         <header>
