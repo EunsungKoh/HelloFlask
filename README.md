@@ -6,7 +6,7 @@
 
 - This is my first flask program. 
 	- This project won't cover professional things.
-	-  Made for adapting [another project](https://github.com/openslide/openslide-python/blob/master/examples/deepzoom/deepzoom_server.py)
+	-  Made for praticing to understand [another project](https://github.com/openslide/openslide-python/blob/master/examples/deepzoom/deepzoom_server.py)
 
 - Start  
 	- pip3 insatll virtualenv
