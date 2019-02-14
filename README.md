@@ -11,10 +11,9 @@
 - Start  
 	- pip3 insatll virtualenv
 	- virtualenv flaskEnv
+	- source flaskEnv/bin/activate
 	- pip install flask
-	- cd flaskEnv
-	- source bin/activate
+	- python app/routes.py 
 
 - Server
 	- http://localhost:5000/
-
